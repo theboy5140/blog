@@ -7,3 +7,4 @@
 * [OpenGL 3.3 tutorial](http://www.mbsoftworks.sk/index.php?page=tutorials&series=1)
 * [Modern OpenGL Series](http://www.tomdalling.com/blog/category/modern-opengl/)
 * [OpenGL introduction](https://open.gl/)
+* [Learn OpenGL ES](http://www.learnopengles.com/android-lesson-one-getting-started/)
