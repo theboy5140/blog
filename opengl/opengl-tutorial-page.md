@@ -1,4 +1,4 @@
-# OpenGL tutorial page
+# OpenGL Tutorial Page
 
 * [OpenGL tutorial](http://www.opengl-tutorial.org/)
 * [OpenGl Step By Step](http://ogldev.atspace.co.uk/index.html)
